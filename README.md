@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #如何使用Grunt构建一个中型项目？
 
 - pubdate: 2013-04-19 10:45
@@ -510,3 +511,6 @@ module.exports = function (grunt) {
 //    grunt.registerTask('default', ['clean']);
 };
 ```
+=======
+# xgrunt
+>>>>>>> 40cb0fb03fd89d4ab2285b92ec21521b03926431
