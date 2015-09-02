@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-#如何使用Grunt构建一个中型项目？
 
-- pubdate: 2013-04-19 10:45
-- author: twinstony
-
----
 
 本文前提是你已经了解了[seajs](http://seajs.org "seajs")和[grunt](http://gruntjs.com/ "grunt")。
 
